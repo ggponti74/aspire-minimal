@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspire-minimal.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37bd10b12566351394a487fc1681bcbd67733dca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86643100221b819a6203c5a470f99df15e3b56d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspire-minimal.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspire-minimal.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
