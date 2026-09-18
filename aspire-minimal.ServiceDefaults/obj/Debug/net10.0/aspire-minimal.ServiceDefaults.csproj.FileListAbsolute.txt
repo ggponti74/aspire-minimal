@@ -1,0 +1,13 @@
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/bin/Debug/net10.0/aspire-minimal.ServiceDefaults.deps.json
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/bin/Debug/net10.0/aspire-minimal.ServiceDefaults.dll
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/bin/Debug/net10.0/aspire-minimal.ServiceDefaults.pdb
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.csproj.AssemblyReference.cache
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.AssemblyInfoInputs.cache
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.AssemblyInfo.cs
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.csproj.CoreCompileInputs.cache
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.sourcelink.json
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.dll
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/refint/aspire-minimal.ServiceDefaults.dll
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/aspire-minimal.ServiceDefaults.pdb
+/workspaces/aspire-minimal/aspire-minimal.ServiceDefaults/obj/Debug/net10.0/ref/aspire-minimal.ServiceDefaults.dll
